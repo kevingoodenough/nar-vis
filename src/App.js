@@ -18,6 +18,17 @@ function App() {
           Learn React
         </a>
       </header>
+      <body>
+        <div>
+          <h1>Chart 1</h1>
+        </div>
+        <div>
+          <h1>Chart 2</h1>
+        </div>
+        <div>
+          <h1>Chart 3</h1>
+        </div>
+      </body>
     </div>
   );
 }
